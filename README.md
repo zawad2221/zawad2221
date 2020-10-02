@@ -3,7 +3,7 @@
 Python | Jave | Androin | Django | SQL
 
 
-<p align="center">
+<p align="left">
   <b><i>Let's connect! Find me on.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -40,6 +40,6 @@ Python | Jave | Androin | Django | SQL
 <h3 align="center">Thanks for visiting my profile. &nbsp;❤️&nbsp;</h3>
 
 [twitter]: https://twitter.com/ZawadHossain12
-[gmail]: https://zawadhossainrifat@gmail.com
+[gmail]: mailto: zawadhossainrifat@gmail.com
 [linkedin]: https://www.linkedin.com/in/zawadhossain/
 [Facebook]: https://www.facebook.com/rifat.zawadhossain
