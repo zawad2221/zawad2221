@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there I am Zawad Hossain👋
 
-<!--
-**zawad2221/zawad2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python | Jave | Androin | Django | SQL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b><i>Let's connect! Find me on.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+<br />
+<hr />
+
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- Namaste 🙏 -->
+ <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+ 
+* Primary coding language: Java and Python.
+* I’m currently working on my a online doctor android application.
+* I'm looking to collaborate on Open source project for Hacktoberfest
+* Competitive Programmer
+* Ask me about anything, I'll be happy to help.
+* From Dhamrai, Dhaka, Bangladesh
+
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zawad2221&show_icons=true&theme=gotham" alt="Zawad Hossain | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{zawad2221}/count.svg)
+ 
+ 
+<h3 align="center">Thanks for visiting my profile. &nbsp;❤️&nbsp;</h3>
+
+[twitter]: https://twitter.com/ZawadHossain12
+[gmail]: https://zawadhossainrifat@gmail.com
+[linkedin]: https://www.linkedin.com/in/zawadhossain/
+[Facebook]: https://www.facebook.com/rifat.zawadhossain
