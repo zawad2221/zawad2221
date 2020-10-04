@@ -40,6 +40,6 @@ Python | Jave | Androin | Django | SQL
 <h3 align="center">Thanks for visiting my profile. &nbsp;❤️&nbsp;</h3>
 
 [twitter]: https://twitter.com/ZawadHossain12
-[gmail]: (mailto:zawadhossainrifat@gmail.com?subject=[GitHub])
+[gmail]: mailto:zawadhossainrifat@gmail.com
 [linkedin]: https://www.linkedin.com/in/zawadhossain/
 [Facebook]: https://www.facebook.com/rifat.zawadhossain
