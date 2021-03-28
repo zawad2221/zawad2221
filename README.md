@@ -20,7 +20,6 @@ Python | Java | Android | Django | SQL
  
 * Primary coding language: Java and Python.
 * I’m currently working on my a online doctor android application.
-* I'm looking to collaborate on Open source project for Hacktoberfest
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * From Dhamrai, Dhaka, Bangladesh
