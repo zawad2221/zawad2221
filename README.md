@@ -23,7 +23,22 @@ Python | Java | Android | Django | SQL
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * From Dhamrai, Dhaka, Bangladesh
-
+ 
+### Working Stack
+```yaml
+{
+  "frontend": {
+    "framework/library": "android",
+    "architectural pattern":"mvvm",
+    "lib": ["retrofit", "rxjava3"]
+  },
+  "backend": ["Django", "django rest"],
+  "language":["java", "python"],
+  "database": ["mysql", "postgresql", "sqlite"],
+  "ide": ["vs code", "android studio"],
+  "testing tools":"postman"
+}
+```
 
  <details>
 <summary>📊 Github Stats</summary>
