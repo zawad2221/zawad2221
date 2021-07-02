@@ -33,8 +33,8 @@ Python | Java | Android | Django | SQL
     "lib": ["retrofit", "rxjava3"]
   },
   "backend": ["Django", "django rest"],
-  "language":["java", "python"],
-  "database": ["mysql", "postgresql", "sqlite"],
+  "language":["java", "python", "kotlin"],
+  "database": ["mysql", "postgresql", "sqlite", "room"],
   "ide": ["vs code", "android studio"],
   "testing tools":"postman"
 }
