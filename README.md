@@ -30,7 +30,10 @@ Kotlin | SQLite | Python | Java | Android | Django | SQL
   "frontend": {
     "framework/library": "android",
     "architectural pattern":"mvvm",
-    "lib": ["retrofit", "rxjava3"]
+    "design pattern":"google material design",
+    "lib": ["retrofit", "rxjava3"],
+    "sdk": ["youtube player", "facebook shimmer", "lottie"]
+    "service": ["firebase cloud messaging", "firebase analytics", "segment analytics", "adjust analytics"]
   },
   "backend": ["Django", "django rest"],
   "language":["java", "python", "kotlin"],
