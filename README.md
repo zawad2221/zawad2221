@@ -19,7 +19,7 @@ Kotlin | SQLite | Python | Java | Android | Django | SQL
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
 * Primary coding language: Java, Kotlin and Python.
-* I’m currently working on my a simple transaction tracker for small business android application called My Simple Ledger.
+* I’m currently working on a travel app called HomeTown which is a flight booking app specially designed for remittance soldiers.
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * From Dhamrai, Dhaka, Bangladesh
