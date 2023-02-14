@@ -1,6 +1,6 @@
 ### Hi there I am Zawad Hossain👋
 
-Python | Java | Android | Django | SQL
+Kotlin | SQLite | Python | Java | Android | Django | SQL
 
 
 <p align="left">
