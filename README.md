@@ -32,12 +32,12 @@ Kotlin | SQLite | Python | Java | Android | Django | SQL
     "architectural pattern":"mvvm",
     "design pattern":"google material design",
     "lib": ["retrofit", "rxjava3"],
+    "dependency injection": ["hilt", "koin"]
     "sdk": ["youtube player", "facebook shimmer", "lottie"]
     "service": ["firebase cloud messaging", "firebase analytics", "segment analytics", "adjust analytics"]
   },
-  "backend": ["Django", "django rest"],
-  "language":["java", "python", "kotlin"],
-  "database": ["mysql", "postgresql", "sqlite", "room"],
+  "language":["java", "kotlin"],
+  "database": ["room"],
   "ide": ["vs code", "android studio"],
   "testing tools":"postman"
 }
