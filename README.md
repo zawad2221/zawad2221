@@ -29,17 +29,17 @@ Kotlin | SQLite | Python | Java | Android | Django | SQL
 {
   "frontend": {
     "framework/library": "android",
-    "architectural pattern":"mvvm",
-    "design pattern":"google material design",
+    "architectural pattern": "mvvm",
+    "design pattern": "google material design",
     "lib": ["retrofit", "rxjava3"],
     "dependency injection": ["hilt", "koin"]
     "sdk": ["youtube player", "facebook shimmer", "lottie"]
     "service": ["firebase cloud messaging", "firebase analytics", "segment analytics", "adjust analytics"]
   },
-  "language":["java", "kotlin"],
+  "language": ["java", "kotlin"],
   "database": ["room"],
   "ide": ["vs code", "android studio"],
-  "testing tools":"postman"
+  "testing tools": "postman"
 }
 ```
 
