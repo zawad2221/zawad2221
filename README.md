@@ -1,4 +1,4 @@
-### Hi there I am Zawad Hossain buy you can call me Rifat👋
+### Hi there I am Zawad Hossain, you can call me Rifat👋
 
 Kotlin | SQLite | Python | Java | Android | Django | SQL
 
