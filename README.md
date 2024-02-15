@@ -1,4 +1,4 @@
-### Hi there I am Zawad Hossain👋
+### Hi there I am Zawad Hossain buy you can call me Rifat👋
 
 Kotlin | SQLite | Python | Java | Android | Django | SQL
 
@@ -18,8 +18,8 @@ Kotlin | SQLite | Python | Java | Android | Django | SQL
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* Primary coding language: Java, Kotlin and Python.
-* I’m currently working on a travel app called HomeTown which is a flight booking app specially designed for remittance soldiers.
+* Primary coding language: Kotlin, Java and python.
+* I’m currently working on a flight booking and remittance sending app called HomeTown which is specially designed for Bangladeshi migrant workers working in Singapore.
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * From Dhamrai, Dhaka, Bangladesh
